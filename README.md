@@ -8,7 +8,7 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/ewelina-mazurkiewicz-2a386b170"><img src="https://img.shields.io/badge/Linkedin-Contact-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="https://linkedin.com/in/ewelina-mazurkiewicz-2a386b170"><img src="https://img.shields.io/badge/Linkedin-Connect-blue?style=for-the-badge&logo=gmail"></a>
   <a href="mailto:ewelina.mazurkiewicz19@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
