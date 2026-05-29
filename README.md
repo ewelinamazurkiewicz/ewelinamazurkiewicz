@@ -13,10 +13,8 @@
 </p>
 
 ## 🚀 About Me 
-Passionate about technology, data and people. I have worked with HR Data since 2018, however I am used to operate with various types of data while studying and personal learning. 
+Passionate about technology, data and people. 
 At work, I lead many projects starting from acquiring the data, cleaning, transforming, loading to analysing and storytelling. 
-My dashboards present KPIs in visually appealing form. It helps teams like Talent Management, Recruiting, HR Operations to smoothly execute their projects or track their performance. 
-I also cooperated with IT, Finance and Business.
 
 My way of working:
   *  I analyse data with multidemensional approach - what, where, when. 
